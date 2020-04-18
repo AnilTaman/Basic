@@ -9,7 +9,7 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Log.debug("I have click on button");				
+		Log.debug("I have click on button");		//Anil Tamang code	
 		Log.info("Button is displayed");
 		Log.error("Button is not displayed");			
 		Log.fatal("Button is missing");		
